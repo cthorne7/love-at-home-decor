@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Personal Site | Home</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Syncopate,Sen" />
+  </head>
+  
+  
+  <body>
+     <div id="content">
+    <header>
+        <div class="logo-box"><img src="https://cdn.glitch.com/10dc8df0-4f5d-4c84-961c-c7185d44807d%2Fthumbnails%2FScreen%20Shot%202019-09-03%20at%2012.25.37%20PM%20copy.jpeg?1595363199468" alt="Logo image"></div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="quotes.html">Quotes</a></li>
+                <li><a href="options.html">Options</a></li>
+            </ul>
+        </nav>
+    </header>
+      
+         
+    <main>
+        <div class="banner-box"><img src="https://cdn.glitch.com/10dc8df0-4f5d-4c84-961c-c7185d44807d%2Fthumbnails%2FAdobeStock_211240724.jpeg?1595451606657" alt="HOME banner"></div>
+        
+        <div class="home-grid">
+          
+          <h2 class="home-headline-1">About Me!</h2>
+          <p class="home-paragraph-1">Hi! My name is Chelsee. I am a stay at home mom of 4 amazing kiddos ages 5 and below! My husband is a handyman/entrepreneur. He's the one who encouraged me to start "Love At Home Decor".</p>
+          <img class="home-right-img" src="https://cdn.glitch.com/10dc8df0-4f5d-4c84-961c-c7185d44807d%2Fthumbnails%2FIMG_8180_Original.jpg?1595451408200" alt="me">
+          
+          <h2 class="home-headline-2">What is "Love At Home Decor"?</h2>
+          <p class="home-paragraph-2">Love At Home Decor was created from a desire to feel more peace and love in my home. I felt that there was too much hate and contention in the world and that I wanted to create an atmosphere of love in our home as a place to come and rest from the chaos of the world.</p>
+      
+        <h2 class="home-headline-3">What does this mean for you?</h2>
+        <p class="home-paragraph-3">I can't be the only one who wants their home to be a place of peace, love and comfort. Because of this I am making and selling inspirational wall quotes to help bring those good feelings into your home.</p>
+          <img class="home-left-img" src="https://cdn.glitch.com/10dc8df0-4f5d-4c84-961c-c7185d44807d%2Fthumbnails%2FIMG_6276.jpeg?1595451179359" alt="wall quote">
+        </div>
+    </main>
+   
+    <footer>
+      <p>&copy; 2020 Love At Home - Chelsee Thorne - 130</p> 
+      <div class="social">
+        <a href="https://www.facebook.com/LoveAtHomeDecor" target="_blank"><img src="https://cdn.glitch.com/3868db3b-1303-490a-92b1-0b80815fe103%2Ffacebook-2.png?1589676322929" alt="facebook logo"></a>
+        <a href="https://www.instagram.com/love_at_home_decor/" target="_blank"><img src="https://cdn.glitch.com/3868db3b-1303-490a-92b1-0b80815fe103%2Finstagram-2.png?1589676325457" alt="instagram logo"></a>
+        <a href="site-plan.html" target="_blank"><img src="https://cdn.glitch.com/10dc8df0-4f5d-4c84-961c-c7185d44807d%2Frsz_clipartkey_118700.png?1595458680927" alt="site plan button"></a>
+      </div>
+    </footer>
+  </div>
+</body>
+    
+</html>
